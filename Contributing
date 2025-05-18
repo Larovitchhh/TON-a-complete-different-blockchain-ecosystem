@@ -1,0 +1,13 @@
+We welcome contributions to the TON Ecosystem Repository! To get started:
+Fork the repository.
+
+Create a new branch (git checkout -b feature/your-feature).
+
+Commit your changes (git commit -m "Add your feature").
+
+Push to the branch (git push origin feature/your-feature).
+
+Open a Pull Request.
+
+Please read our Contributing Guidelines (CONTRIBUTING.md) for more details.
+
